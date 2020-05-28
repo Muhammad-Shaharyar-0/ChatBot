@@ -1,0 +1,36 @@
+{"Cities":[
+            {
+               "tag": "Gujrat",
+               "patterns": [
+                    "Gujrat"
+               ],
+               "responses": [
+                    "What size(marla or kanal) of property you are looking for","What is your price range",
+                 "I have all the essential information i need would you like me to suggest a few options","Would you like to buy a house or Flat"
+               ],
+               "context_set": ""
+          },
+          {
+               "tag": "Sahiwal",
+               "patterns": [
+                    "Sahiwal"
+               ],
+               "responses": [
+                    "What size(marla or kanal) of property you are looking for","What is your price range",
+                 "I have all the essential information i need would you like me to suggest a few options","Would you like to buy a house or Flat"
+               ],
+               "context_set": ""
+          },
+          {
+               "tag": "Sukkur",
+               "patterns": [
+                   "Sukkur"
+               ],
+               "responses": [
+                    "What size(marla or kanal) of property you are looking for","What is your price range",
+                 "I have all the essential information i need would you like me to suggest a few options","Would you like to buy a house or Flat"
+               ],
+               "context_set": ""
+          }
+     ]
+}
